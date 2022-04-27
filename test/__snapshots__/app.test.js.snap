@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de integração Cenário 03 1`] = `
+Object {
+  "erro": "Última consulta realizada há 0 dias ",
+}
+`;
